@@ -4,6 +4,7 @@
  * @param {number} length
  * @param {number} position
  * @param {number} value
+ * @author Chidiamara Ekejiuba <https://github.com/chidiamara>
  */
 
 export default function createInt8TypedArray(length, position, value) {
