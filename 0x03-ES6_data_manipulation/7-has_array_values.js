@@ -1,5 +1,8 @@
 /**
- * Write a function called hasArrayValues which accepts two arrays and returns true if every value in the array has it's corresponding value squared in the second array. The frequency of values must be the same.
+ * Write a function called hasArrayValues which accepts two arrays\
+ * and returns true if every value in the array has it's corresponding\
+ * value squared in the second array.\
+ * The frequency of values must be the same.
  * @returns {boolean}
  * @param {Set} set
  * @param {*} array
